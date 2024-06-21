@@ -84,10 +84,6 @@ We welcome contributions to enhance the features and improve the application. To
 5. Push to the branch (`git push origin feature-branch`)
 6. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [SignalR](https://dotnet.microsoft.com/apps/aspnet/signalr) for providing real-time communication capabilities
