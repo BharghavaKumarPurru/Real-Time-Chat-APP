@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bharghava\\dotnetAndReact\\FormulaOne.ChatService\\FormulaOne.ChatService.csproj",
+      "projectUniqueName": "C:\\Users\\Bharghava\\Documents\\GitHub\\Real-Time-Chat-APP\\FormulaOne.ChatService\\FormulaOne.ChatService.csproj",
       "projectName": "FormulaOne.ChatService",
-      "projectPath": "C:\\Users\\Bharghava\\dotnetAndReact\\FormulaOne.ChatService\\FormulaOne.ChatService.csproj",
+      "projectPath": "C:\\Users\\Bharghava\\Documents\\GitHub\\Real-Time-Chat-APP\\FormulaOne.ChatService\\FormulaOne.ChatService.csproj",
       "packagesPath": "C:\\Users\\Bharghava\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bharghava\\dotnetAndReact\\FormulaOne.ChatService\\obj\\",
+      "outputPath": "C:\\Users\\Bharghava\\Documents\\GitHub\\Real-Time-Chat-APP\\FormulaOne.ChatService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
