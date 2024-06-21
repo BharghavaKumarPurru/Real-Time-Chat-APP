@@ -1,5 +1,4 @@
 # Real-Time Chat Application with SignalR and React
-![1710199579139](https://github.com/BharghavaKumarPurru/Real-Time-Chat-APP/assets/117737888/86e60eed-df95-4a6c-8c0f-67539d600879)
 
 ## Overview
 
