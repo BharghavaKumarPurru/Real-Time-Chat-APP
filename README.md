@@ -1,4 +1,6 @@
 # Real-Time Chat Application with SignalR and React
+![image](https://github.com/user-attachments/assets/ac58c8e4-3d26-4efa-bf38-75d6e27eda54)
+
 
 ## Overview
 
